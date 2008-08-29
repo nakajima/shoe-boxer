@@ -1,0 +1,11 @@
+= SHOEBOXER =
+
+A Shoes app that lets you download and run Shoes apps. Currently
+it gets the app list from the-shoebox.org, but I hope to add more
+sources soon.
+
+TODO
+- Figure out a good way to show thumbnails
+- Ability to run apps that aren't .rb files
+- Cleanup code
+
