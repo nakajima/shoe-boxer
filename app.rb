@@ -12,7 +12,7 @@ class ShoeBoxer < Shoes
     style(Para, :font => 'Georgia')
     style(Title, :font => 'Georgia')
     style(Link, :underline => false, :stroke => '#444', :font => 'Georgia')
-    style(LinkHover, :underline => false, :fill => '#0af', :stroke => white, :font => 'Georgia')
+    style(LinkHover, :underline => false, :fill => '#0a0a0a', :stroke => white, :font => 'Georgia')
 
     background '#0a0a0a'
 
